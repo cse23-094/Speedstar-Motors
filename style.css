@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .hero{
-    width: 100px;
+    width: 300px;
     height: 100vh;
     background-image: linear-gradient(rgba(12,3,51,0.3));
     position: relative;
